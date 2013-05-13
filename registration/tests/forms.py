@@ -1,7 +1,7 @@
-from django.contrib.auth.models import User
 from django.test import TestCase
 
 from registration import forms
+from registration.compat import User
 
 
 class RegistrationFormTests(TestCase):
