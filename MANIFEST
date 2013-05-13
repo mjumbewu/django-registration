@@ -22,6 +22,7 @@ docs/views.rst
 registration/__init__.py
 registration/admin.py
 registration/auth_urls.py
+registration/compat.py
 registration/forms.py
 registration/models.py
 registration/signals.py
